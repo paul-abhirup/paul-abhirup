@@ -24,7 +24,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 Ask me about anything, Happy to help;
 - 📫 How to reach me: ... abhiruppaul1249@gmail.com
 - 😄 Pronouns: ... he/him/his
-- ⚡ Fun fact: ... I like to play Football and, code and think about cool projects.
+- ⚡ Fun fact: ... I like to play Football and,
+-              code and think about cool projects.
 
 
 **languages and tools:**  
