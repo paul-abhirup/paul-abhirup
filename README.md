@@ -60,7 +60,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <h2 align="center">🤝 Support</h2>
 
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with Coderss!</p>
 </p>
