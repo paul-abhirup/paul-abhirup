@@ -1,4 +1,4 @@
-### Hi there 👋👋👋
+### Hi there ,I am [Abhirup Paul](tinyurl.com/Abhirup1) 👋👋👋
 <a href="https://www.instagram.com/abhirup._cr7">
   <img align="left" alt="Abhirup's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/abhirup-paul-758b75245/">
   <img align="left" alt="Abhirup's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=paul-abhirup.paul-abhirup)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=paul-abhirup.paul-abhirup) -->
 
 <br />
 
