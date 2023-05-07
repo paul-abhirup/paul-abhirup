@@ -1,4 +1,4 @@
-###<h1>🙎 Hi there, I am [Abhirup Paul](https://paul-abhirup.github.io/PortfolioWebsite/) 👋👋👋 | 💻 Developer | 🛸 India  </h1>
+###<h1>🙎 Hi there, I am [Abhirup Paul](https://paul-abhirup.github.io/PortfolioWebsite/) 👋 | 💻 Developer | 🛸 India  </h1>
 <a href="https://www.instagram.com/abhirup._cr7">
   <img align="left" alt="Abhirup's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
