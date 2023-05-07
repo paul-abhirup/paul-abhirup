@@ -1,5 +1,4 @@
-###<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Hi there, I am [Abhirup Paul](https://paul-abhirup.github.io/PortfolioWebsite/) 👋👋👋 | 💻 Full Stack Developer | 🛸 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+###🙎 Hi there, I am [Abhirup Paul](https://paul-abhirup.github.io/PortfolioWebsite/) 👋👋👋 | 💻 Developer | 🛸 India  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <a href="https://www.instagram.com/abhirup._cr7">
   <img align="left" alt="Abhirup's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
