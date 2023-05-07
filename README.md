@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/abhirup-paul-758b75245/">
   <img align="left" alt="Abhirup's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=paul-abhirup.paul-abhirup)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=paul-abhirup.paul-abhirup)
 
 <br />
 
