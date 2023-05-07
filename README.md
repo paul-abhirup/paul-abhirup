@@ -18,10 +18,9 @@ Hi, I am <a href="https://paul-abhirup.github.io/PortfolioWebsite/">Abhirup Paul
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- 🔭 I’m currently working on ... something cool and fun to do.
-- 🌱 I’m currently learning ...  Javascript frameworks and Python
+- 🔭 I’m currently working on ...   something cool and fun to do.
+- 🌱 I’m currently learning ...   Javascript frameworks and Python
 - 👯 I’m looking to collaborate on ... some cool projects
-<!-- - 🤔 I’m looking for help with ...  -->
 - 💬 Ask me about anything, Happy to help;
 - 📫 How to reach me: ... abhiruppaul1249@gmail.com
 - 😄 Pronouns: ... he/him/his
