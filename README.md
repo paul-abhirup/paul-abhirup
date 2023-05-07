@@ -44,3 +44,30 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 | <a href="https://github.com/paul-abhirup/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=paul-abhirup&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abhirup's github stats" /></a> | <a href="https://github.com/paul-abhirup/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-abhirup&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
+ ### - What i do
+
+
+<br />
+
+<p align="center">
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   </p>
+   
+   
+<br />
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with Coderss!</p>
+</p>
+<p align="center">Made with ❤️ in India</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
