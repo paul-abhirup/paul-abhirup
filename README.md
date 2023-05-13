@@ -2,9 +2,9 @@
 <a href="https://www.instagram.com/abhirup._cr7">
   <img align="left" alt="Abhirup's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<!-- <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a> -->
+<a href="https://discordapp.com/users/Abhirup#1045">
+  <img align="left" alt="Abhirup's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 <a href="https://twitter.com/Abhirup_Eth">
   <img align="left" alt="Abhirup Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
