@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/abhirup-paul-758b75245/">
   <img align="left" alt="Abhirup's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=paul-abhirup.paul-abhirup) -->
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=paul-abhirup.paul-abhirup) 
 <br>
 <br />
 Hi, I am <a href="https://paul-abhirup.github.io/PortfolioWebsite/">Abhirup Paul 👋👋👋</a>, a passionate full stack web, pyhton, blockchain(Web3) developer, Entrepreneur and a freelance software engineer from Kolkata, India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
@@ -41,8 +41,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-<a href="https://github.com/paul-abhirup/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=paul-abhirup&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abhirup's github stats" /></a> | <a href="https://github.com/paul-abhirup/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-abhirup&layout=compact&theme=buefy&hide_border=true" /></a> 
+<!--
+<a href="https://github.com/paul-abhirup/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=paul-abhirup&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abhirup's github stats" /></a> | <a href="https://github.com/paul-abhirup/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-abhirup&layout=compact&theme=buefy&hide_border=true" /></a>   -->
 | ------------- | ------------- |
 
 
