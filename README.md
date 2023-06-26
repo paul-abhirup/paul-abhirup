@@ -22,7 +22,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 🌱 I’m currently learning ...   Javascript frameworks and Python
 - 👯 I’m looking to collaborate on ... some cool projects
 - 💬 Ask me about anything, Happy to help;
-- 📫 How to reach me: ... abhiruppaul1249@gmail.com
+- 📫 How to reach me: ... abhiruppaul1249@gmail.com ;
 - 😄 Pronouns: ... he/him/his
 - ⚡ Fun fact: ... I like to play Football and, code and think about cool projects.
 
