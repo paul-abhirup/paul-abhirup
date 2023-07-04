@@ -1,6 +1,6 @@
 <!-- ###<h1>🙎 Hi there, I am [Abhirup Paul](https://paul-abhirup.github.io/PortfolioWebsite/) 👋 | 💻 Developer | 🛸 India  </h1>  -->
 <h1 align="center">Hello Fellow < Developers/ >👋👋👋</h1>
-<h3 align="center"> I'm Abhirup, A passionate 💻 Web , Blockchain developer from India </h3>
+<h3 align="center"> I'm Abhirup, a passionate Web , Blockchain developer . </h3>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
