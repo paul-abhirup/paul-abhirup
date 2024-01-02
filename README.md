@@ -2,6 +2,7 @@
 <h1 align="center">Hello Fellow < Developers/ >👋👋👋</h1>
 <h3 align="center"> I'm Abhirup, a passionate Web , Blockchain developer . </h3>
 
+<!--
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.instagram.com/abhirup._cr7">
@@ -16,8 +17,8 @@
 <a href="https://www.linkedin.com/in/abhirup-paul-758b75245/">
   <img align="left" alt="Abhirup's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 </p>
+-->
 
 <!-- 
 
